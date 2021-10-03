@@ -209,6 +209,7 @@
 						</address>
 					</div>
 					<div class="col-lg-6 col-md-6 col-xs-10 wow fadeInUp" data-wow-delay="0.6s">
+					<p class="contact-title">Check my Academic CV</p>
 						<!-- <form role="form" method="post" action="#">
 							<input name="name" type="text" class="form-control" id="name" placeholder="Your Name">
 							<input name="email" type="email" class="form-control" id="email" placeholder="Your Email">
